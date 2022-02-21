@@ -3,6 +3,9 @@ Coverage: 34%
 
 One Paragraph of project description goes here
 
+This project requires building an inventory management system application in which the user can interact with a CLI. The project will involve concepts from 'Agile & Project Management, Databases and the fundamentals of programming. I will be using Git as my version control system, Gitbash as my source code manager, Jira as my kanban board, MySQL for my database, Java as my programming tool and Maven as my build tool.
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -11,8 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```
-Give examples
+I needed to download a few different software programmes in order to complete the project. I downloaded Eclipse workspace for Java, which was relatively comfortable as I followed the steps from QA community. I made sure to edit the system variables as I needed it to affect all USERS and continued to follow the steps. I was also further required to download MySQL which was also straightforward as I followed the steps on QA community.
 ```
 
 ### Installing
